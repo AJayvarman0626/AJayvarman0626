@@ -1,6 +1,6 @@
 
 <h1> Hello ! i'm ajayvarman</h1>  
-fullstack dev @ web & android-aiml
+SDE, web - aiml, fullstack dev 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
